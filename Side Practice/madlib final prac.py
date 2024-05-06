@@ -25,10 +25,7 @@ class MadLib:
 def main():
     word_bank = WordBank()
     madlib = MadLib('madlib.txt')
-    madlip.populate_madlib(word_bank)
+    madlib.populate_madlib(word_bank)
     print(madlib)
 
-if __name__ == "__main__":
-    main()
-    
     

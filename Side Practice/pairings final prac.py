@@ -23,7 +23,6 @@ def get_average(convert):
 
 
 
-
 pairings = [
  ("Cate Blanchett", "Babel"),
  ("Johnny Depp", "Edward Scissorhands"),
