@@ -28,4 +28,4 @@ def main():
     madlib.populate_madlib(word_bank)
     print(madlib)
 
-    
+main()
