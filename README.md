@@ -1,4 +1,4 @@
-# Intro to Python Projects
+# Intro to Python Coursework
 
 This repository contains code written as part of my **Introduction to Python** course at NYU.
 
@@ -14,3 +14,5 @@ The projects in this repo were designed to help build a foundation in Python pro
 ---
 
 Each script or folder corresponds to a different assignment or learning module from the course.
+
+# DO NOT COPY
